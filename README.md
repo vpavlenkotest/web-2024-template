@@ -365,3 +365,8 @@ git config --global user.email "YOUR_EMAIL@gmail.com"
 git config --global user.name "JANE DOE"
 ```
 
+![Screenshot (6)](https://github.com/user-attachments/assets/74fd61e5-984a-42ab-b6d9-28c24edfb727)
+![Screenshot (5)](https://github.com/user-attachments/assets/3b5d7354-df2c-4bb7-a49f-a46323dfac00)
+![Screenshot (4)](https://github.com/user-attachments/assets/b001623c-bc9c-45ed-a378-855bb3411216)
+![Screenshot (3)](https://github.com/user-attachments/assets/a2021bb4-5b4a-42e4-9de9-a9df9cec3ad3)
+![Screenshot (2)](https://github.com/user-attachments/assets/81d735ef-623d-4c32-8d8f-613729ce81f3)
